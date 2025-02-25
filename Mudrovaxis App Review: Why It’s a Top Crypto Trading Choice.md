@@ -11,11 +11,12 @@
 
 🔗 **Official Website:** [Mudrovaxis App](https://shrtdoo.com/mudrovaxis-app/)  
 
-{% include youtube.html id="uCXdkHOIK88" %}
----  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uCXdkHOIK88" frameborder="0" allowfullscreen></iframe>
 
-{% include youtube.html id="uCXdkHOIK88" %}
+---  
+
+
+[![Mudrovaxis App Review](https://img.youtube.com/vi/uCXdkHOIK88/0.jpg)](https://www.youtube.com/watch?v=uCXdkHOIK88)
+
 
 ## ✅ What Is Mudrovaxis App?  
 
