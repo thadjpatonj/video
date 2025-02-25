@@ -14,6 +14,8 @@
 {% include youtube.html id="uCXdkHOIK88" %}
 ---  
 
+{% include youtube.html id="uCXdkHOIK88" %}
+
 ## ✅ What Is Mudrovaxis App?  
 
 Mudrovaxis App is an **AI-driven trading platform** that automates trading in cryptocurrencies and forex. The platform’s **advanced trading algorithms** allow both beginners and expert traders to **profit from market movements** with minimal effort. Users can **earn passive income** without needing to monitor trades manually.  
